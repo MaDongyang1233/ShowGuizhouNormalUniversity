@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="sie-college.css"?>
+<!--
+  贵州师范大学国际教育学院 学院信息 XML 文档
+  数据来源：学院官方网站（https://sie.gznu.edu.cn/）"学院简介"栏目公开发布页面
+  整理日期：2026-09-14
+  说明：本文件仅收录官网公开信息，未收录任何非公开或个人隐私信息；
+        学院各项数据会随年度调整，实际以学院官网最新发布为准。
+-->
+<college xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="sie-college.xsd"
+         code="SIE-GZNU"
+         xml:lang="zh-CN">
+
+    <!-- ==================== 文档元数据 ==================== -->
+    <metadata>
+        <documentTitle>贵州师范大学国际教育学院学院信息</documentTitle>
+        <compiledDate>2026-09-14</compiledDate>
+        <sourceType>学院官方网站公开发布信息</sourceType>
+        <note>本文件依据学院官网“学院简介”栏目公开页面整理，内容以官网最新发布为准。</note>
+    </metadata>
+
+    <!-- ==================== 学院标识信息 ==================== -->
+    <identity>
+        <name type="zh">贵州师范大学国际教育学院</name>
+        <name type="en">School of International Education, Guizhou Normal University</name>
+        <shortName>SIE-GZNU</shortName>
+        <affiliation>贵州师范大学</affiliation>
+        <type>教学单位（二级学院）</type>
+        <founded>2014</founded>
+        <predecessor founded="2009">英国高等教育文凭项目部</predecessor>
+        <website>https://sie.gznu.edu.cn/</website>
+        <introduction>
+            <paragraph>贵州师范大学国际教育学院前身为2009年成立的英国高等教育文凭项目部，2014年，随着学校加大国际合作办学，正式成立国际教育学院。学院位于贵州省贵阳市贵安新区花溪大学城贵州师范大学西区，承担了中外合作办学项目学生及来华留学生的招生、管理等工作。</paragraph>
+            <paragraph>学院现有英国高等教育文凭（SQA AD）项目、国际通识教育课程（IGEC）项目、与美国中央俄克拉荷马大学合作举办的音乐学专业本科教育项目。与美国中央俄克拉荷马大学、切斯特大学、赫尔大学、阿尔弗雷德大学、加努恩大学等55所英美大学有合作。现设置有工商管理系、旅游与酒店管理系、计算机与数据科学系、音乐教育系，包含旅游管理（国际酒店管理方向）（SQA AD）、计算机科学与技术（软件开发方向）（SQA AD）、市场营销（IGEC）、旅游管理（IGEC）、音乐学5个本科专业。</paragraph>
+            <paragraph>学院设有国际学生事务管理中心，负责全校国际来华留学生的招生、日常管理和教学管理，负责汉语水平考试（HSK）考点和剑桥五级考试（MSE）考点的考试工作。</paragraph>
+            <paragraph>学院现有全日制在校国内外学生3600余人。</paragraph>
+            <paragraph>学院教师有美国、英国、法国、澳大利亚及港澳等地的留学背景，能以国际先进教学理念和方法进行双语教学，经教育部留学服务中心和英方专家培训后上岗。</paragraph>
+        </introduction>
+    </identity>
+
+    <!-- ==================== 联系方式 ==================== -->
+    <contact>
+        <address>贵州省贵安新区花溪大学城贵州师范大学西区</address>
+        <postalCode>550025</postalCode>
+        <phone usage="学院办公室">0851-86700476</phone>
+        <phone usage="学生科／学院团委">0851-86700348</phone>
+        <email>sie@gznu.edu.cn</email>
+        <icpRecord>黔ICP备13004003号-2</icpRecord>
+    </contact>
+
+    <!-- ==================== 现任领导 ==================== -->
+    <leadership>
+        <position title="党委书记">
+            <person>尚源</person>
+        </position>
+        <position title="院长">
+            <person>姜山</person>
+        </position>
+        <position title="副书记">
+            <person>姜山</person>
+            <person>汪莉栋</person>
+        </position>
+        <position title="副院长">
+            <person>陈昶</person>
+            <person>秦欣</person>
+        </position>
+        <position title="副处级组织员">
+            <person>彭万斌</person>
+        </position>
+    </leadership>
+
+    <!-- ==================== 组织机构 ==================== -->
+    <organization>
+        <offices>
+            <office>
+                <name>办公室</name>
+                <phone>0851-86700476</phone>
+            </office>
+            <office>
+                <name>教学科</name>
+                <phone>0851-86758404</phone>
+            </office>
+            <office>
+                <name>学生科</name>
+                <phone>0851-86700348</phone>
+            </office>
+            <office>
+                <name>学院团委</name>
+                <phone>0851-86700348</phone>
+            </office>
+            <office>
+                <name>国际学生事务管理中心</name>
+                <phone>0851-86759517</phone>
+            </office>
+        </offices>
+        <!-- 注：官网“学院机构”页面未列明各系与本科专业的一一对应关系，故此处不作推断 -->
+        <departments>
+            <department>
+                <name>工商管理系</name>
+                <phone>0851-88911043</phone>
+            </department>
+            <department>
+                <name>旅游与酒店管理系</name>
+                <phone>0851-88911331</phone>
+            </department>
+            <department>
+                <name>计算机与数据科学系</name>
+            </department>
+            <department>
+                <name>音乐教育系</name>
+            </department>
+        </departments>
+    </organization>
+
+    <!-- ==================== 办学项目 ==================== -->
+    <projects>
+        <project id="SQA-AD" type="国际教育项目">
+            <name>英国高等教育文凭项目</name>
+            <abbr>SQA AD</abbr>
+            <description>学院前身即为该项目部，学生按英国高等教育文凭课程体系培养。</description>
+        </project>
+        <project id="IGEC" type="国际通识教育课程项目">
+            <name>国际通识教育课程项目</name>
+            <abbr>IGEC</abbr>
+            <description>引入国际通识教育课程及理念的本科培养项目。</description>
+        </project>
+        <project id="GZNU-UCO" type="中外合作办学项目">
+            <name>与美国中央俄克拉荷马大学合作举办的音乐学专业本科教育项目</name>
+            <partner country="美国">中央俄克拉荷马大学</partner>
+        </project>
+    </projects>
+
+    <!-- ==================== 本科专业（共5个） ==================== -->
+    <academicPrograms total="5">
+        <program id="SQA-AD-TM" level="本科" degree="学士" projectRef="SQA-AD">
+            <name>旅游管理（国际酒店管理方向）</name>
+        </program>
+        <program id="SQA-AD-CS" level="本科" degree="学士" projectRef="SQA-AD">
+            <name>计算机科学与技术（软件开发方向）</name>
+        </program>
+        <program id="IGEC-MKT" level="本科" degree="学士" projectRef="IGEC">
+            <name>市场营销</name>
+        </program>
+        <program id="IGEC-TM" level="本科" degree="学士" projectRef="IGEC">
+            <name>旅游管理</name>
+        </program>
+        <program id="GZNU-UCO-MUS" level="本科" degree="学士" projectRef="GZNU-UCO">
+            <name>音乐学</name>
+        </program>
+    </academicPrograms>
+
+    <!-- ==================== 合作院校 ==================== -->
+    <cooperatingInstitutions total="55" region="美国、英国等">
+        <institution country="美国">中央俄克拉荷马大学</institution>
+        <institution country="英国">切斯特大学</institution>
+        <institution country="英国">赫尔大学</institution>
+        <institution country="美国">阿尔弗雷德大学</institution>
+        <institution country="美国">加努恩大学</institution>
+        <note>官网表述为“与美国中央俄克拉荷马大学、切斯特大学、赫尔大学、阿尔弗雷德大学、加努恩大学等55所英美大学有合作”，此处仅列出官网点名的院校。</note>
+    </cooperatingInstitutions>
+
+    <!-- ==================== 国际学生事务 ==================== -->
+    <internationalStudentServices>
+        <center>国际学生事务管理中心</center>
+        <responsibilities>
+            <responsibility>全校国际来华留学生的招生</responsibility>
+            <responsibility>国际来华留学生的日常管理</responsibility>
+            <responsibility>国际来华留学生的教学管理</responsibility>
+        </responsibilities>
+        <testCenters>
+            <testCenter code="HSK">汉语水平考试考点</testCenter>
+            <testCenter code="MSE">剑桥五级考试考点</testCenter>
+        </testCenters>
+    </internationalStudentServices>
+
+    <!-- ==================== 师资队伍 ==================== -->
+    <faculty>
+        <highlight>学院教师有美国、英国、法国、澳大利亚及港澳等地的留学背景</highlight>
+        <highlight>能以国际先进教学理念和方法进行双语教学</highlight>
+        <qualificationRequirement>经教育部留学服务中心和英方专家培训后上岗</qualificationRequirement>
+    </faculty>
+
+    <!-- ==================== 学生规模 ==================== -->
+    <students>
+        <totalStudents type="全日制在校国内外学生" approximate="true">3600余人</totalStudents>
+    </students>
+
+    <!-- ==================== 学院使命 ==================== -->
+    <mission>
+        <item>培养具有本土情怀、国际视野和竞争力的应用型人才；</item>
+        <item>致力于培养学生的好奇心、创造力、执行力、合作精神；</item>
+        <item>为学生的发展提供多种选择；</item>
+        <item>着力培养学生的英语应用能力，使之成其为核心竞争力；</item>
+        <item>引入借鉴优质国际教育资源和理念，探索高等教育新模式。</item>
+    </mission>
+
+    <!-- ==================== 学院愿景 ==================== -->
+    <vision available="false">
+        <note>学院官网“学院愿景”页面以图片形式发布，未提供可直接摘录的文字内容，故本文件未收录具体表述。</note>
+    </vision>
+
+    <!-- ==================== 信息来源 ==================== -->
+    <sources>
+        <source id="S1" title="学院介绍" url="https://sie.gznu.edu.cn/xyjj/xyjs.htm" accessed="2026-09-14"/>
+        <source id="S2" title="现任领导" url="https://sie.gznu.edu.cn/xyjj/xrld.htm" accessed="2026-09-14"/>
+        <source id="S3" title="学院机构" url="https://sie.gznu.edu.cn/xyjj/XYJG.htm" accessed="2026-09-14"/>
+        <source id="S4" title="学院使命" url="https://sie.gznu.edu.cn/xyjj/xysm.htm" accessed="2026-09-14"/>
+        <source id="S5" title="学院愿景" url="https://sie.gznu.edu.cn/xyjj/xyyj.htm" accessed="2026-09-14"/>
+    </sources>
+
+</college>
