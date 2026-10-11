@@ -1,0 +1,286 @@
+{
+  "code": "SIE-GZNU",
+  "lang": "zh-CN",
+  "metadata": {
+    "documentTitle": "贵州师范大学国际教育学院学院信息",
+    "compiledDate": "2026-09-14",
+    "sourceType": "学院官方网站公开发布信息",
+    "sourceWebsite": "https://sie.gznu.edu.cn/",
+    "note": "本文件依据学院官网“学院简介”栏目公开页面整理，内容以官网最新发布为准。"
+  },
+  "identity": {
+    "name": {
+      "zh": "贵州师范大学国际教育学院",
+      "en": "School of International Education, Guizhou Normal University"
+    },
+    "shortName": "SIE-GZNU",
+    "affiliation": "贵州师范大学",
+    "type": "教学单位（二级学院）",
+    "founded": 2014,
+    "predecessor": {
+      "name": "英国高等教育文凭项目部",
+      "founded": 2009
+    },
+    "website": "https://sie.gznu.edu.cn/",
+    "location": "贵州省贵阳市贵安新区花溪大学城贵州师范大学西区",
+    "introduction": {
+      "paragraphs": [
+        "贵州师范大学国际教育学院前身为2009年成立的英国高等教育文凭项目部，2014年，随着学校加大国际合作办学，正式成立国际教育学院。学院位于贵州省贵阳市贵安新区花溪大学城贵州师范大学西区，承担了中外合作办学项目学生及来华留学生的招生、管理等工作。",
+        "学院现有英国高等教育文凭（SQA AD）项目、国际通识教育课程（IGEC）项目、与美国中央俄克拉荷马大学合作举办的音乐学专业本科教育项目。与美国中央俄克拉荷马大学、切斯特大学、赫尔大学、阿尔弗雷德大学、加努恩大学等55所英美大学有合作。现设置有工商管理系、旅游与酒店管理系、计算机与数据科学系、音乐教育系，包含旅游管理（国际酒店管理方向）（SQA AD）、计算机科学与技术（软件开发方向）（SQA AD）、市场营销（IGEC）、旅游管理（IGEC）、音乐学5个本科专业。",
+        "学院设有国际学生事务管理中心，负责全校国际来华留学生的招生、日常管理和教学管理，负责汉语水平考试（HSK）考点和剑桥五级考试（MSE）考点的考试工作。",
+        "学院现有全日制在校国内外学生3600余人。",
+        "学院教师有美国、英国、法国、澳大利亚及港澳等地的留学背景，能以国际先进教学理念和方法进行双语教学，经教育部留学服务中心和英方专家培训后上岗。"
+      ]
+    }
+  },
+  "contact": {
+    "address": "贵州省贵安新区花溪大学城贵州师范大学西区",
+    "postalCode": "550025",
+    "phones": [
+      {
+        "usage": "学院办公室",
+        "number": "0851-86700476"
+      },
+      {
+        "usage": "学生科／学院团委",
+        "number": "0851-86700348"
+      }
+    ],
+    "email": "sie@gznu.edu.cn",
+    "icpRecord": "黔ICP备13004003号-2"
+  },
+  "leadership": {
+    "positions": [
+      {
+        "title": "党委书记",
+        "persons": ["尚源"]
+      },
+      {
+        "title": "院长",
+        "persons": ["姜山"]
+      },
+      {
+        "title": "副书记",
+        "persons": ["姜山", "汪莉栋"]
+      },
+      {
+        "title": "副院长",
+        "persons": ["陈昶", "秦欣"]
+      },
+      {
+        "title": "副处级组织员",
+        "persons": ["彭万斌"]
+      }
+    ]
+  },
+  "organization": {
+    "offices": [
+      {
+        "name": "办公室",
+        "phone": "0851-86700476"
+      },
+      {
+        "name": "教学科",
+        "phone": "0851-86758404"
+      },
+      {
+        "name": "学生科",
+        "phone": "0851-86700348"
+      },
+      {
+        "name": "学院团委",
+        "phone": "0851-86700348"
+      },
+      {
+        "name": "国际学生事务管理中心",
+        "phone": "0851-86759517"
+      }
+    ],
+    "note": "官网“学院机构”页面未列明各系与本科专业的一一对应关系，故此处不作推断。",
+    "departments": [
+      {
+        "name": "工商管理系",
+        "phone": "0851-88911043"
+      },
+      {
+        "name": "旅游与酒店管理系",
+        "phone": "0851-88911331"
+      },
+      {
+        "name": "计算机与数据科学系"
+      },
+      {
+        "name": "音乐教育系"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "SQA-AD",
+      "type": "国际教育项目",
+      "name": "英国高等教育文凭项目",
+      "abbr": "SQA AD",
+      "description": "学院前身即为该项目部，学生按英国高等教育文凭课程体系培养。"
+    },
+    {
+      "id": "IGEC",
+      "type": "国际通识教育课程项目",
+      "name": "国际通识教育课程项目",
+      "abbr": "IGEC",
+      "description": "引入国际通识教育课程及理念的本科培养项目。"
+    },
+    {
+      "id": "GZNU-UCO",
+      "type": "中外合作办学项目",
+      "name": "与美国中央俄克拉荷马大学合作举办的音乐学专业本科教育项目",
+      "partner": {
+        "name": "中央俄克拉荷马大学",
+        "country": "美国"
+      }
+    }
+  ],
+  "academicPrograms": {
+    "total": 5,
+    "items": [
+      {
+        "id": "SQA-AD-TM",
+        "level": "本科",
+        "degree": "学士",
+        "projectRef": "SQA-AD",
+        "name": "旅游管理（国际酒店管理方向）"
+      },
+      {
+        "id": "SQA-AD-CS",
+        "level": "本科",
+        "degree": "学士",
+        "projectRef": "SQA-AD",
+        "name": "计算机科学与技术（软件开发方向）"
+      },
+      {
+        "id": "IGEC-MKT",
+        "level": "本科",
+        "degree": "学士",
+        "projectRef": "IGEC",
+        "name": "市场营销"
+      },
+      {
+        "id": "IGEC-TM",
+        "level": "本科",
+        "degree": "学士",
+        "projectRef": "IGEC",
+        "name": "旅游管理"
+      },
+      {
+        "id": "GZNU-UCO-MUS",
+        "level": "本科",
+        "degree": "学士",
+        "projectRef": "GZNU-UCO",
+        "name": "音乐学"
+      }
+    ]
+  },
+  "cooperatingInstitutions": {
+    "total": 55,
+    "region": "美国、英国等",
+    "listed": [
+      {
+        "name": "中央俄克拉荷马大学",
+        "country": "美国"
+      },
+      {
+        "name": "切斯特大学",
+        "country": "英国"
+      },
+      {
+        "name": "赫尔大学",
+        "country": "英国"
+      },
+      {
+        "name": "阿尔弗雷德大学",
+        "country": "美国"
+      },
+      {
+        "name": "加努恩大学",
+        "country": "美国"
+      }
+    ],
+    "note": "官网表述为“与美国中央俄克拉荷马大学、切斯特大学、赫尔大学、阿尔弗雷德大学、加努恩大学等55所英美大学有合作”，此处仅列出官网点名的院校。"
+  },
+  "internationalStudentServices": {
+    "center": "国际学生事务管理中心",
+    "responsibilities": [
+      "全校国际来华留学生的招生",
+      "国际来华留学生的日常管理",
+      "国际来华留学生的教学管理"
+    ],
+    "testCenters": [
+      {
+        "code": "HSK",
+        "name": "汉语水平考试考点"
+      },
+      {
+        "code": "MSE",
+        "name": "剑桥五级考试考点"
+      }
+    ]
+  },
+  "faculty": {
+    "highlights": [
+      "学院教师有美国、英国、法国、澳大利亚及港澳等地的留学背景",
+      "能以国际先进教学理念和方法进行双语教学"
+    ],
+    "qualificationRequirement": "经教育部留学服务中心和英方专家培训后上岗"
+  },
+  "students": {
+    "totalStudents": {
+      "type": "全日制在校国内外学生",
+      "value": "3600余人",
+      "approximate": true
+    }
+  },
+  "mission": {
+    "items": [
+      "培养具有本土情怀、国际视野和竞争力的应用型人才；",
+      "致力于培养学生的好奇心、创造力、执行力、合作精神；",
+      "为学生的发展提供多种选择；",
+      "着力培养学生的英语应用能力，使之成其为核心竞争力；",
+      "引入借鉴优质国际教育资源和理念，探索高等教育新模式。"
+    ]
+  },
+  "vision": {
+    "available": false,
+    "note": "学院官网“学院愿景”页面以图片形式发布，未提供可直接摘录的文字内容，故本文件未收录具体表述。"
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "学院介绍",
+      "url": "https://sie.gznu.edu.cn/xyjj/xyjs.htm",
+      "accessed": "2026-09-14"
+    },
+    {
+      "id": "S2",
+      "title": "现任领导",
+      "url": "https://sie.gznu.edu.cn/xyjj/xrld.htm",
+      "accessed": "2026-09-14"
+    },
+    {
+      "id": "S3",
+      "title": "学院机构",
+      "url": "https://sie.gznu.edu.cn/xyjj/XYJG.htm",
+      "accessed": "2026-09-14"
+    },
+    {
+      "id": "S4",
+      "title": "学院使命",
+      "url": "https://sie.gznu.edu.cn/xyjj/xysm.htm",
+      "accessed": "2026-09-14"
+    },
+    {
+      "id": "S5",
+      "title": "学院愿景",
+      "url": "https://sie.gznu.edu.cn/xyjj/xyyj.htm",
+      "accessed": "2026-09-14"
+    }
+  ]
+}
